@@ -1,7 +1,7 @@
 {
-    "name": "XBug-Bot",
+    "name": "Xwulu-Bot",
     "version": "5.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "Wulu suck on ya cock",
     "main": "main.js",
     "type": "commonjs",
     "directories": {
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Xwulu",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
